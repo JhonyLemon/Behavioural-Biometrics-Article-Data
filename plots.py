@@ -24,7 +24,6 @@ def plot_accuracy_comparison(results: Dict[int, Any], folder: str):
     plt.xlabel('User ID')
     plt.ylabel('Accuracy')
     plt.title('Accuracy Comparison by User')
-    plt.xticks(user_ids)
     plt.grid(True)
     plt.savefig(os.path.join(prepare_folder(folder), 'accuracy_comparison.png'))
     plt.close()
@@ -38,9 +37,9 @@ def plot_f_measure_distribution(results: Dict[int, Any], folder: str):
     plt.xlabel('User ID')
     plt.ylabel('F1-Score')
     plt.title('F1-Score Comparison by User')
-    plt.xticks(user_ids)
     plt.grid(True)
     plt.savefig(os.path.join(prepare_folder(folder), 'f1_score_comparison.png'))
+
 
 def plot_confusion_matrix_heatmaps(results: Dict[int, Any], folder: str):
     user_ids = get_user_ids(results)
