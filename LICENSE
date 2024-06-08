@@ -1,0 +1,52 @@
+# Project License
+
+## Overview
+
+This project utilizes the Behaviour Biometrics Dataset, which is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. The CC BY 4.0 license allows for sharing, copying, and modifying the dataset as long as appropriate credit is given, a link to the license is provided, and any changes made are indicated. The full legal text of the license can be found at [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
+
+## Permissions and Conditions
+
+### You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+### Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Dataset Attribution
+
+The dataset used in this project is licensed under the CC BY 4.0 license. Appropriate credit has been given to the original creators of the dataset. Below is the required attribution:
+
+Behaviour Biometrics Dataset by Nonso Nnamoko, Joe Barrowclough, Mark Liptrott, and Ioannis Korkontzelos is licensed under CC BY 4.0. To view a copy of this license, visit [Creative Commons License](https://creativecommons.org/licenses/by/4.0/). Published: 20 June 2022, Version 1, DOI: [10.17632/fnf8b85kr6.1](https://doi.org/10.17632/fnf8b85kr6.1). Contributors: Nonso Nnamoko, Joe Barrowclough, Mark Liptrott, Ioannis Korkontzelos. Institutions: Edge Hill University. Categories: Artificial Intelligence, Cybersecurity, Machine Learning, Biometrics, Authentication, Data Analytics Cybersecurity.
+
+## Third-Party Content
+
+Please note that the dataset may contain content that is identified as belonging to third parties. Further permission may be required to use such content. It is the responsibility of the user to ensure compliance with any additional restrictions.
+
+## Project License
+
+All other components of this project, including code and documentation, are licensed under the MIT License. See below for the full text of the MIT License.
+
+MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Attribution for Dataset
+
+This project uses the Behaviour Biometrics Dataset by Nonso Nnamoko, Joe Barrowclough, Mark Liptrott, and Ioannis Korkontzelos, which is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). To view a copy of this license, visit [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).
